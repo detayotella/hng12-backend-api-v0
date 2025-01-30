@@ -33,7 +33,7 @@ hng12-api/
 
 ### 1️⃣ Clone the Repository
 ```sh
-git clone https://github.com/yourusername/hng12-api.git
+git clone https://github.com/detayotella/hng12-backend-api-v0.git
 cd hng12-api
 ```
 
