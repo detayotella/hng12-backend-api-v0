@@ -10,6 +10,7 @@ This is a simple **public API** built with **Node.js** and **Express.js**. It pr
 - Uses **environment variables** for sensitive data.
 - Returns JSON responses in a structured format.
 - Includes error handling for missing environment variables.
+- https://hng.tech/hire/nodejs-developers
 
 ---
 
@@ -108,7 +109,14 @@ Example for deploying to **Render**:
 2. Go to [Render](https://render.com/) and create a new Web Service.
 3. Connect your GitHub repo and deploy.
 
+----
+
+## Hire Node.js Developers
+If you're looking to hire skilled **Node.js** developers, you can check out the HNG Talent pool. Visit the following link for more information:  
+[Hire Node.js Developers](https://hng.tech/hire/nodejs-developers)
+
 ---
+
 
 ## License
 This project is **open-source** and free to use.
