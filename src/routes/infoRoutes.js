@@ -3,6 +3,6 @@ import express from "express";
 
 const router = express.Router(); 
 
-router.get("/info", getParticipantsInfo); 
+router.get("/", getParticipantsInfo); 
 
 export default router; 

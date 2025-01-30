@@ -12,7 +12,7 @@ app.use(express.json());
 
 app.use(cors()); 
 
-app.use("/api", infoRoutes); 
+app.use(infoRoutes); 
 
 app.listen(PORT, () => {
     console.log(`Server is running at port: ${PORT}`); 
